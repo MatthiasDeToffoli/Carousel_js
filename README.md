@@ -85,10 +85,10 @@ You can optionaly add buttons for select a specific slide, for that in the div *
 *If you have a timer it will be reset by a slide selection, for example if you a timer set to 5 seconds and it already counted 4 seconds when you click on the switcher then the timer restart to 0 for counting 5 seconds*
 <hr>
 
-*<sub>Made with jquery-3.6.0, the script can't work without jquery</sub>*
-
-<hr>
-
 This repository contains the js script, a css specific to the Carousel and an example which show three type of carousel
 
 Enjoy :)
+
+<hr>
+
+*<sub>Made with jquery-3.6.0, the script can't work without jquery</sub>*

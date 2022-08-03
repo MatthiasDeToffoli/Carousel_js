@@ -2,7 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-./Scripts/jquery-3.6.0.min.js
+
+/Scripts/jquery-3.6.0.min.js
 
 
 # personal and work files
